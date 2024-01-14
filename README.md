@@ -3,7 +3,7 @@
 
 This lab was a 2-week project where I was building a module for a game inspired by the old TV game show "You Bet Your Life," hosted by the legendary Groucho Marx.
 
-# Team Collaboration
+## Team Collaboration
  - You have the option to work individually, or in a team of 2 (pair programming is encouraged).
  - If working in a team, submit the same code from both members, and provide team member names in comments.
  - No extra credit for individual work.
