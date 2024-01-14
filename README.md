@@ -51,7 +51,6 @@ This lab was a 2-week project where I was building a module for a game inspired 
 
 ## Known Issues
 - The current implementation does not display the "Captain Spaulding..." message as requested.
-- The secret word must be in small letters for proper recognition (The secret word was accepted in any format).
 
 ## Acknowledgments
  - "You Bet Your Life" TV game show.
