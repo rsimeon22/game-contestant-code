@@ -37,11 +37,14 @@ This lab was a 2-week project where I was building a module for a game inspired 
 
 
 ## Getting Started
- - Follow these instructions to set up and run the "You Bet Your Life" game module:
+Follow these instructions to set up and run the "You Bet Your Life" game module:
 
 1.) Clone the repository to your local machine.
+
 2.) Navigate to the project directory.
+
 3.) Run the "groucho" process with the secret word as a command line variable.
+
 4.) Run the "contestant" process for each contestant.
 
 
